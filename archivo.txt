@@ -1,1 +1,2 @@
 1  https://github.com/Richard002422/github-final-project/blob/main/README.md
+2 https://github.com/Richard002422/github-final-project/blob/main/LICENSE
